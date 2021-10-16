@@ -24,7 +24,7 @@
     - 이전 layer의 출력을 `평탄화`하여 다음 layer의 입력이 될 수 있는 단일 벡터로 변환
     - 2차원 배열 형태의 이미지를 1차원 배열로 평탄화
 
-  - Fully connected ouyput layer
+  - Fully connected ouput layer
     - Convolution/Pooling 프로세스의 결과를 정의된 라벨(카테고리)로 분류
     - Active Functions(ReLU, Sigmoid, tanh 등) 항목(뉴런)을 활성화
     - 분류기(softmax) 함수로 분류
